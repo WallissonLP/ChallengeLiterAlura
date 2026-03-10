@@ -97,3 +97,10 @@ O código está dividido em pacotes lógicos:
 Wallisson de Lima Parreira
 
 ---
+
+## 🔗 Links
+
+- **GitHub:** https://github.com/WallissonLP/ChallengeLiterAlura.git
+- **LinkedIn:** https://www.linkedin.com/in/wallissonlima/
+
+---
