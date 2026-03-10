@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run LiterAlura",
+            "request": "launch",
+            "mainClass": "br.com.alura.literAlura.LiterAluraApplication",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
